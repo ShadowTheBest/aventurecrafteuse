@@ -1,0 +1,42 @@
+
+div#content div{
+    display: inline-block;
+    width: 48%;
+}
+div#content div.gauche{
+    background-color: rgb(255, 0, 0);
+    size: 100px;
+    vertical-align: top;
+}
+div#content div.navigation{
+    background-color: blue;
+}
+ul li.btn{
+    list-style-type: none;
+}
+
+ul li.btn a{
+    text-decoration: none;
+    color: red;
+    background-color: gray;
+    font-size: 50px;
+}
+
+h1{
+    font-size: 70px;
+    padding-left: 750px;
+    color: Red;
+}
+
+body{
+    background-size: 2000px;
+}
+header{
+    background-color: brown;
+}
+div#dw div.dw{
+    font-size: 50px;
+}
+ul li.dw{
+    background-color: blue;
+}
